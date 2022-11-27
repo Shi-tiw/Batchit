@@ -4,7 +4,7 @@
 
 1. Create a folder and Clone the repository:
 ```sh
-$ git clone https://github.com/shwetaatgit/GetAnswersHere.git
+$ git clone https://github.com/Shi-tiw/Batchit.git
 ```
 
 2. Create a virtual environment to install dependencies in and activate it:
